@@ -12,7 +12,7 @@ or provide an example for which the algorithm fails.
 This algorithms has one major flaw. It doesn't specify how exactly vertices are split in two sets which is leading us to the fact that whether we will get a correct minimal spanning tree or not depends on our luck.
 For example consider the following undirected weighted graph:
 
-![Algorithms%20and%20Data%20Structures%20Home%20Assignment%207%204ef0b806a82c479993838bd4c21180f2/method-draw-image.svg](Algorithms%20and%20Data%20Structures%20Home%20Assignment%207%204ef0b806a82c479993838bd4c21180f2/method-draw-image.svg)
+![Algorithms%20and%20Data%20Structures%20Home%20Assignment%207%204ef0b806a82c479993838bd4c21180f2/method-draw-image.svg](method-draw-image.svg)
 
 Lets proceed via the provided algorithm.
 Suppose we split the vertices into two sets like this $V_1=\{u,t\},V_2=\{v,w\}$ which satisfies the conditions that sets differ in cardinality by at most 1, and our edges sets would be $E_1=\{(u,t)\},E_2=\{(v,w)\}$. As in each have we have only 2 vertices with 1 edge connecting them any spanning tree algorithm would have to choose that edge and those 2 vertices as a spanning tree. Next according to the algorithm we find the minimal-weight edges connecting that crosses the cut $(V_1,V_2)$ which is edge $(u,v)$ with weight 1. We get the resulting sum of edges in a spanning tree to be **11!** This is by no means correct as the actual minimal spanning tree of this graph has a total edge sum of **6!**
