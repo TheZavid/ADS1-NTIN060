@@ -1,4 +1,4 @@
-# Algorithms and Data Structures 2.
+# Algorithms and Data Structures 1.
 Home Assignment 13.
 
 ## *Task*:
