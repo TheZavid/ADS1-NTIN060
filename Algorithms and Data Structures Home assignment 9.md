@@ -12,14 +12,14 @@ See an example:
 
 Initialy we have:
 
-![Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(4).svg](Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(4).svg)
+![Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(4).svg](method-draw-image_(4).svg)
 
 Lets insert 1:
 
-![Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(5).svg](Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(5).svg)
+![Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(5).svg](method-draw-image_(5).svg)
 
 Now delete 1:
 
-![Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(6).svg](Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(6).svg)
+![Algorithms%20and%20Data%20Structures%20Home%20assignment%209%20a54f4a3547a146eea1668ec7872fcd33/method-draw-image_(6).svg](method-draw-image_(6).svg)
 
 As we see the resulting tree is not the same as before..
