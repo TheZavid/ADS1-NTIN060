@@ -1,0 +1,23 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="19" rx="18" id="svg_1" cy="422.5" cx="199.5" opacity="undefined" stroke="#000" fill="#fff"/>
+  <ellipse stroke="#000" ry="19.5" rx="20" id="svg_4" cy="424" cx="524.5" opacity="undefined" fill="#fff"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="69.5" x2="962.5" y1="69.5" x1="961.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="none"/>
+  <ellipse ry="19" rx="18" id="svg_13" cy="133.5" cx="190.5" opacity="undefined" stroke="#000" fill="#fff"/>
+  <ellipse stroke="#000" ry="19.5" rx="20" id="svg_14" cy="135" cx="515.5" opacity="undefined" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_15" y="140.5" x="182.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">u</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_16" y="141.5" x="510.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">v</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_17" y2="404.5" x2="198.5" y1="151.5" x1="189.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_18" y2="424.5" x2="505.5" y1="421.5" x1="216.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_19" y2="152.5" x2="518.5" y1="405.5" x1="524.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_23" y2="135.5" x2="495.5" y1="134.5" x1="208.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="none"/>
+  <text stroke="#000" transform="matrix(1.1428571939468384,0,0,1,-29.785724937915802,0) " xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_24" y="430.5" x="198" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="#000000">t</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_25" y="430.5" x="516.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">w</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_26" y="278.5" x="175.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">2</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_27" y="445.5" x="357.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">3</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_28" y="282.5" x="534.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">8</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_29" y="119.5" x="337.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">1</text>
+ </g>
+</svg>
